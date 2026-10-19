@@ -11,7 +11,7 @@ Authors: Jiangfan Feng, Changqing Luo
 ## Scope
 
 This repository is limited to the manuscript and its basic publication metadata.
-It does **not** contain model source code, architecture definitions, training
+It does **not** contain model source code, model definition files, training
 configurations, checkpoints, logs, or per-run experiment records.
 
 The SeaClear and TrashCan-1.0 datasets are public and remain subject to their
